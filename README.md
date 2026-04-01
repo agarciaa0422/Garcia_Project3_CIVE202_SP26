@@ -17,8 +17,8 @@ As part of the Federal Highway Administration (FHWA) project, this repository co
 This repository contains the following files:
 
 * **`Garcia_Project3_CIVE202_Spring26.ipynb`**: The main Jupyter Notebook containing all the Python code, sequential prompts, data exploration, and visualizations for both the NHTS and NGSIM datasets.
-* **`NHTS.csv`**: The National Household Travel Survey dataset containing categorical and numerical data regarding household travel habits. *(Ensure this is uploaded to your repo)*
-* **`NGSIM.csv`**: The Next Generation Simulation dataset containing time-series traffic simulation data (speeds, positions, accelerations). *(Ensure this is uploaded to your repo)*
+* **`NHTS.csv`**: The National Household Travel Survey dataset containing categorical and numerical data regarding household travel habits.
+* **`NGSIM.csv`**: The Next Generation Simulation dataset containing time-series traffic simulation data (speeds, positions, accelerations).
 * **`Annotated_Code_Document.csv` (or `.pdf`)**: A breakdown of the code structure, libraries, and logic used in the Jupyter Notebook to automate the visualizations.
 * **`Technical_Report.pdf`**: The final engineering report containing the background, methodology, results, and discussion of the visualizations' relevance to the transportation industry.
 * **`Timesheet.xlsx`**: Project timesheet tracking tasks and distribution of work.

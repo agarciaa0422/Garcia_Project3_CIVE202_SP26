@@ -21,7 +21,7 @@ This repository contains the following files:
 * **`NGSIM.csv`**: The Next Generation Simulation dataset containing time-series traffic simulation data (speeds, positions, accelerations).
 * **`Garcia_ACD_Project3_CIVE202_SP26.pdf`**: A breakdown of the code structure, libraries, and logic used in the Jupyter Notebook to automate the visualizations.
 * **`Garcia_Report_Project3_CIVE202_SP26.pdf`**: The final engineering report containing the background, methodology, results, and discussion of the visualizations' relevance to the transportation industry.
-* **`Timesheet.xlsx`**: Project timesheet tracking tasks and distribution of work.
+* **`Garcia_Project3_Timesheet_CIVE202_SP26.pdf`**: Project timesheet tracking tasks and distribution of work.
 
 ## Requirements and Setup
 
